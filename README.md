@@ -1,17 +1,48 @@
-# emaily
+# Emaily
 
-An email app that helps a user to send emails in bulk.
-Made with :heart: MERN stack.
+Emaily is an e-mail app that helps a user to send emails in bulk.
+Made with :heart: and MERN stack.
 
-Visit: https://pure-tor-79795.herokuapp.com/
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes:
+1. Clone this repository to your local machine.
+2. Change the directory to `emaily/server`.
+3. Open the terminal and run `npm install` that will install all the project dependencies.
+4. Run `npm start` to run the project for testing or `npm run dev` to run the project for development.
+5. Open a web browser and go to `http://localhost:5000` and you will see the project up and running.
+
+
+### Prerequisites
+
+You need to install the following softwares:
+
+1. Node.js (https://nodejs.org/en/download/)
+2. NPM (https://www.npmjs.com/package/download)
+
+## Deployment
+
+The project is deployed on Heroku.
+Link to the project: https://pure-tor-79795.herokuapp.com/
 
 <!-- Deployment Target
 https://git.heroku.com/pure-tor-79795.git -->
 
-To run the project:
-1. Change the directory to `emaily/server`.
-2. Open the terminal and run `npm install` that will install all the project dependencies.
-3. Run `npm start` to run the project.
-4. Open a web browser and go to `http://localhost:5000` and you will see the project up and running.
+## Built With
 
-Author: Arpit Malik <http://www.arpitmalik.me>
+* [ReactJS and Redux](https://reactjs.org/) - The front-end web framework used
+* [MongoDB](https://www.mongodb.com/) - Database Management
+* [Node.js](https://nodejs.org/en/) - Complete Backend Of the Project.
+
+## Versioning
+
+I use [Github](https://github.com/) for versioning.
+
+## Authors
+
+* **Arpit Malik** - *Initial work* - [Arpit Malik](https://github.com/arpitmalik)
+Visit My [Website](http://www.arpitmalik.me).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
