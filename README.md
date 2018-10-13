@@ -23,10 +23,11 @@ You need to install the following softwares:
 ## Deployment
 
 The project is deployed on Heroku.
-Link to the project: https://pure-tor-79795.herokuapp.com/
+Link to the project: https://blooming-ocean-28526.herokuapp.com/
 
 <!-- Deployment Target
-https://git.heroku.com/pure-tor-79795.git -->
+https://git.heroku.com/blooming-ocean-28526.git
+-->
 
 ## Built With
 
@@ -40,8 +41,7 @@ I use [Github](https://github.com/) for versioning.
 
 ## Authors
 
-* **Arpit Malik** - *Initial work* - [Arpit Malik](https://github.com/arpitmalik)
-Visit My [Website](http://www.arpitmalik.me).
+[Arpit Malik](https://github.com/arpitmalik):Visit My [Website](http://www.arpitmalik.me).
 
 ## License
 
