@@ -1,18 +1,15 @@
-const passport = require('passport');
+const passport = require("passport");
 
-module.exports = (app)=> {
+module.exports = app => {
+  app.get("/", (req, res) => res.send({ hey: "there" }));
 
-    app.get('/', (req,res) => (
-        res.send({hey: 'there'})
-    ));
-    
-    // Testing google OAuth
-    app.get(
-        "/auth/google",
-        passport.authenticate('google', {
-        scope: ['profile', 'email']
-        })
-    );
-    
-    app.get('/auth/google/callback', passport.authenticate('google'));
-}
+  // Testing google OAuth
+  app.get(
+    "/auth/google",
+    passport.authenticate("google", {
+      scope: ["profile", "email"]
+    })
+  );
+
+  app.get("/auth/google/callback", passport.authenticate("google"));
+};
