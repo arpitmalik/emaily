@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need to install the following softwares:
+Please install the following softwares:
 
 1. Node.js (https://nodejs.org/en/download/)
 2. NPM (https://www.npmjs.com/package/download)
